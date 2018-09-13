@@ -1,0 +1,23 @@
+<svg id="Group_60" data-name="Group 60" xmlns="http://www.w3.org/2000/svg" viewBox="2129 -115 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        font-size: 9px;
+        font-family: OpenSans, Open Sans;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  <g id="Group_59" data-name="Group 59" transform="translate(1772 -166)">
+    <path id="Path_368" data-name="Path 368" class="cls-1" d="M12.5,0A12.5,12.5,0,1,1,0,12.5,12.5,12.5,0,0,1,12.5,0Z" transform="translate(357 51)"/>
+    <text id="x1" class="cls-2" transform="translate(361 68)"><tspan x="0" y="0">x</tspan><tspan class="cls-3" y="0">1</tspan></text>
+  </g>
+</svg>

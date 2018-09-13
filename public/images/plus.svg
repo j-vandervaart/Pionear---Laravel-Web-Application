@@ -1,0 +1,26 @@
+<svg id="Group_68" data-name="Group 68" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1932.5 -253 28.961 19.961">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #73aaa0;
+      }
+
+      .cls-2 {
+        filter: url(#Path_369);
+      }
+    </style>
+    <filter id="Path_369" x="1932.5" y="-248.032" width="28.961" height="12.024" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_65" data-name="Group 65" transform="translate(1625 -395)">
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, -1625, 395)">
+      <path id="Path_369-2" data-name="Path 369" class="cls-1" d="M1.512,0H18.449a1.512,1.512,0,0,1,0,3.024H1.512A1.512,1.512,0,1,1,1.512,0Z" transform="translate(1937 -244.53)"/>
+    </g>
+    <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-1" width="19.961" height="3.024" rx="1.512" transform="translate(323.493 142) rotate(90)"/>
+  </g>
+</svg>

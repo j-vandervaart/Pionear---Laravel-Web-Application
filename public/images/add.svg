@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1210.5 141 28.961 19.961">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        filter: url(#Rectangle_16);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4aba78"/>
+      <stop offset="1" stop-color="#59968a"/>
+    </linearGradient>
+    <filter id="Rectangle_16" x="1210.5" y="145.968" width="28.961" height="12.024" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_15" data-name="Group 15" transform="translate(903 -1)">
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, -903, 1)">
+      <rect id="Rectangle_16-2" data-name="Rectangle 16" class="cls-1" width="19.961" height="3.024" rx="1.512" transform="translate(1215 149.47)"/>
+    </g>
+    <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-1" width="19.961" height="3.024" rx="1.512" transform="translate(323.493 142) rotate(90)"/>
+  </g>
+</svg>
