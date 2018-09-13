@@ -40,7 +40,6 @@ Route::get('garden/{id}/listview/ajaxlist', 'GardensController@ajaxList');
 
 Route::get('api/test', 'GardensController@test');
 
-
 Route::get('plants', 'Plant_typesController@index');
 Route::get('plants/{name}', 'Plant_typesController@getAll');
 
